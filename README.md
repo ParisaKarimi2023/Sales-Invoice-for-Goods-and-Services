@@ -1,6 +1,6 @@
 # Sales-Invoice-for-Goods-and-Services
 
-## 1. Introduction
+##  Introduction
 
 The Sales Invoice for Goods and Services project is a Python-based application designed to generate, manage, and store invoices for businesses. <br>
 The system helps automate the billing process by calculating totals, taxes, and generating clear invoices for customers.
@@ -8,7 +8,8 @@ The system helps automate the billing process by calculating totals, taxes, and 
 This project demonstrates how Python can be used to build practical business applications and simplifies manual invoice preparation.
 
 -----
-## 2. Objectives
+
+##  Objectives
 
 The main objectives of this project are:
 
@@ -24,7 +25,7 @@ To practice Python programming in a real-world scenario<br>
 
 --------
 
-## 3. Technologies Used
+##  Technologies Used
 
 Python – core programming language <br>
 
@@ -38,7 +39,7 @@ Datetime Module – for invoice date and time <br>
 ---------------------
 
 
-## 4. Project Features
+##  Project Features
 
 Create sales invoices for goods and services <br>
 
@@ -52,7 +53,9 @@ Display invoice details in a readable format <br>
 
 Simple and user-friendly interface (console-based) <br>
 
-## 5. System Design and Implementation
+--------------------
+
+##  System Design and Implementation
 
 Each invoice contains:
 <ul>
@@ -73,3 +76,19 @@ Each invoice contains:
 <li>Date of issue</li>
 
 </ul>
+
+
+------------------------
+
+
+##  Applications
+
+This project can be used in:
+
+Small shops and businesses <br>
+
+Freelance service billing<br>
+
+Educational and training purposes<br>
+
+Accounting system prototypes<br>
