@@ -7,7 +7,7 @@ The system helps automate the billing process by calculating totals, taxes, and 
 
 This project demonstrates how Python can be used to build practical business applications and simplifies manual invoice preparation.
 
------
+--------
 
 ##  Objectives
 
