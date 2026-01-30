@@ -33,3 +33,43 @@ CSV / Text Files – for data storage <br>
 Datetime Module – for invoice date and time <br>
 
 (Optional) ReportLab / FPDF – for PDF invoice generation<br>
+
+
+---------------------
+
+
+## 4. Project Features
+
+Create sales invoices for goods and services <br>
+
+Add multiple items per invoice <br>
+
+Automatic calculation of subtotal, tax, and total amount <br>
+
+Store invoice records in files <br>
+
+Display invoice details in a readable format <br>
+
+Simple and user-friendly interface (console-based) <br>
+
+## 5. System Design and Implementation
+
+Each invoice contains:
+<ul>
+<li>Invoice number</li>
+
+<li>Customer name</li>
+
+<li>Item name</li>
+
+<li>Quantity</li>
+
+<li>Unit price</li>
+
+<li>Tax</li>
+
+<li>Total amount</li>
+
+<li>Date of issue</li>
+
+</ul>
