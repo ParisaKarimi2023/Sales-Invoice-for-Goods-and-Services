@@ -92,3 +92,21 @@ Freelance service billing<br>
 Educational and training purposes<br>
 
 Accounting system prototypes<br>
+
+
+-------------------------
+
+
+## Libraries
+
+jinja2 <br>
+jdatetime <br>
+pdfkit<br>
+
+-------------------------------------
+
+
+##  Conclusion
+
+The Sales Invoice for Goods and Services project successfully demonstrates how Python can be applied to automate business billing processes.
+It improves efficiency, accuracy, and record-keeping while providing a solid foundation for advanced accounting systems.
