@@ -98,11 +98,11 @@ Accounting system prototypes<br>
 
 
 ## Libraries
-
-jinja2 <br>
-jdatetime <br>
-pdfkit<br>
-
+<ul>
+<li>jinja2 </li>
+<li>jdatetime </li>
+<li>pdfkit</li>
+</ul>
 -------------------------------------
 
 
