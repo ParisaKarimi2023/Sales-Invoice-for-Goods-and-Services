@@ -43,7 +43,7 @@ for product in products:
     sum_total["sum_total"] += product["total"]
 
 term=input("1:Cash  2:installment: ")
-terms_of_sale="نقدی" if term==1 else "قسطی"
+terms_of_sale="Cash" if term==1 else "Installment"
 description=input("description: ")
 
 
@@ -73,6 +73,7 @@ wkhtmltopdf=r"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe"
 file=r"templates\new-template.html"
 config=pdfkit.configuration(wkhtmltopdf=wkhtmltopdf)
 pdfkit.from_file(file,output_path="inv.pdf",configuration=config)
+
 
 
 
