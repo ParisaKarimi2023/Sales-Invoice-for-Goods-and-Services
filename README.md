@@ -21,3 +21,15 @@ To store invoice data efficiently<br>
 To reduce human errors in billing<br>
 
 To practice Python programming in a real-world scenario<br>
+
+--------
+
+## 3. Technologies Used
+
+Python – core programming language <br>
+
+CSV / Text Files – for data storage <br>
+
+Datetime Module – for invoice date and time <br>
+
+(Optional) ReportLab / FPDF – for PDF invoice generation<br>
